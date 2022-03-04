@@ -20,4 +20,5 @@ public class Employee {
     public String name;
     public String dept;
     public double salary;
+    public String country;
 }
